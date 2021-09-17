@@ -1,6 +1,0 @@
-﻿  main.c
-C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(9,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
-C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(9,9): message : consider using '%zd' in the format string
-C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(20,9): warning C4477: 'printf' : format string '%02X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'char *'
-C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(20,9): warning C4313: 'printf': '%X' in format string conflicts with argument 1 of type 'char *'
-  KeyDefinedCiphers.vcxproj -> C:\Users\jramosdi\source\repos\KeyDefinedCiphers\x64\Debug\KeyDefinedCiphers.exe
