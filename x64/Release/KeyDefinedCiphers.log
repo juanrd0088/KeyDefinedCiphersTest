@@ -1,0 +1,42 @@
+﻿  main.c
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(171,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(216,2): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(226,2): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(227,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(227,9): message : consider using '%zd' in the format string
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(241,58): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(244,2): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(250,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(250,9): message : consider using '%zd' in the format string
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(260,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(266,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(336,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(381,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(387,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(459,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(521,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(527,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(553,8): warning C4101: 'message': unreferenced local variable
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(727,7): warning C4101: 'enc': unreferenced local variable
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(823,2): warning C4048: different array subscripts: 'byte (*)[4]' and 'byte [64][64]'
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(868,3): warning C4048: different array subscripts: 'byte (*)[4]' and 'byte [64][64]'
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(841,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(1018,2): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(1018,2): message : consider using '%zd' in the format string
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(1019,2): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(1019,2): message : consider using '%zd' in the format string
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(952,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(1042,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(1121,2): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(1121,2): message : consider using '%zd' in the format string
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(1115,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(1174,18): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(1231,18): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(1298,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jramosdi\source\repos\KeyDefinedCiphers\main.c(1282,11): warning C4101: 'result': unreferenced local variable
+  Generating code
+  7 of 49 functions (14.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  KeyDefinedCiphers.vcxproj -> C:\Users\jramosdi\source\repos\KeyDefinedCiphers\x64\Release\KeyDefinedCiphers.exe
